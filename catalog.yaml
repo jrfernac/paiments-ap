@@ -5,10 +5,11 @@ projects:
     version: 1.1.0
     apiVersion: v1
     contact:
-      name: 'Andres Morales'
-      email: 'andres.email@flexcompany.com'
+      name: 'Jose Rodriguez'
+      email: 'jose.rodriguez@universal.com'
     tags:
       - logistics
       - commerce
+      - trainning
     documentation:
       Home: home.md
